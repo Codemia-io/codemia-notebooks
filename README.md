@@ -3,7 +3,7 @@
 Practice notebooks for the Codemia learning platform. Each notebook is the executable companion to a lesson, designed to be opened directly in Google Colab via the URL pattern:
 
 ```
-https://colab.research.google.com/github/codemia-ai/codemia-notebooks/blob/main/<path>.ipynb
+https://colab.research.google.com/github/Codemia-io/codemia-notebooks/blob/main/<path>.ipynb
 ```
 
 ## Layout
