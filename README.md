@@ -17,6 +17,7 @@ https://colab.research.google.com/github/Codemia-io/codemia-notebooks/blob/main/
 - `retrieval/` — vector search (HNSW from scratch), advanced RAG
 - `interpretability/` — induction heads with TransformerLens, activation patching
 - `research/` — paper reproduction template
+- `networking/` (no GPU, numpy and matplotlib only): bandwidth-delay product and window sizing, congestion-window trajectories, latency percentiles, DNS TTL and cache hit rate, connection capacity and port exhaustion, the tail-latency cost of a retransmission
 
 ## Notebook conventions
 
